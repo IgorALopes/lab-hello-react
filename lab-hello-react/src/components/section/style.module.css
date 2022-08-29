@@ -1,0 +1,23 @@
+.iconSect {
+    padding: 100px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+section div {
+    width: 180px;
+    margin: 30px;
+}
+
+.iconSect img {
+    width: 150px;
+}
+
+h2 {
+    color: #1F2535;
+}
+
+p {
+    font-size: 1.1em;
+    color: gray;
+}
